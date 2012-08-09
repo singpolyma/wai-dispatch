@@ -1,3 +1,6 @@
 Provides a simple wrapper for taking Route data mapping to WAI
 'Application's and a default 'Application' and producing a single
 'Application'.
+
+You may find the route-generator package useful for generating route
+data to use with this library.
